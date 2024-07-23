@@ -1,0 +1,29 @@
+.contaner{
+ 
+  margin: 0 auto;
+  max-width: 1250px;
+}
+.contaner-top{
+  display: flex;
+  align-items: center;
+}
+.contaner-top-img{
+  width: 160px;
+height: 41px;
+top: 135px;
+left: 247px;
+gap: 0px;
+opacity: 0px;
+
+}
+.contaner-top-ul{
+  list-style: none;
+  display: flex;
+  align-items: center;
+}
+.contaner-top-li{
+  color: black;
+}
+.contaner-top-li-i{
+  
+}
