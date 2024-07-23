@@ -6,6 +6,7 @@
 .contaner-top{
   display: flex;
   align-items: center;
+  margin-bottom: 15px;
 }
 .contaner-top-img{
   width: 160px;
@@ -29,4 +30,16 @@ opacity: 0px;
 color: darkgray;
 margin-right: 50px;
 
+}
+.cotaner-pas{
+  display: flex;
+  align-items: center;
+}
+.contaner-pas-h{
+    color: black;
+    font-size: 48px;
+}
+.contaner-pas-text{
+  color: darkgray;
+  font-size: 21px;
 }
